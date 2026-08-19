@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240120
+# Name:RITHVIK S
+# Date:18-08-26
 
 
 # AIM:
